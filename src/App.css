@@ -1,0 +1,69 @@
+.App {
+  font-size: 1.5rem;
+}
+
+.title {
+  text-align: center;
+  color: #fff;
+  padding: 20px;
+  background-color: #333;
+}
+
+.p20 {
+  padding: 20px;
+}
+
+.py20 {
+  padding: 20px 0;
+}
+
+.input {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 10px;
+  font-size: 1.5rem;
+}
+
+.guest {
+  padding: 10px 0;
+  border-bottom: 1px solid #ccc;
+}
+
+.info {
+  display: flex;
+  justify-content: space-between;
+}
+
+.table {
+  color: #999;
+}
+
+.relationship {
+  font-size: .9rem;
+  text-align: right;
+  color: #666;
+}
+
+.same-table .guest {
+  font-size: 1rem;
+}
+
+.cookie {
+  padding: 4px;
+  width: 1rem;
+  height: 1rem;
+  font-size: 1rem;
+  border-radius: 100%;
+  margin-right: 4px;
+  display:inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cookie.c {
+  background-color: #e8bbbb;
+}
+
+.cookie.w {
+  background-color: #8edcb2;
+}
